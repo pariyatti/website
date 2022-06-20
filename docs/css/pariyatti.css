@@ -1,0 +1,82 @@
+
+.title {
+  text-align: center;
+  margin-top: 48px;
+  display: block;
+}
+
+.cover {
+  text-align: center;
+  margin-top: -82px;
+}
+
+.store-buttons {
+  text-align: center;
+  padding: 40px 0px;
+}
+
+.store-buttons img {
+  width: 136px;
+  height: 40px;  
+  margin-left: 11px;
+  margin-right: 11px;
+}
+
+body {
+  font-family: 'Mulish';
+}
+
+article {
+  width: 512px;
+  margin: 0 auto;
+}
+
+footer {
+  width: 512px;
+  margin: 0 auto;
+  padding-top: 60px;
+}
+
+a {
+  color: #207868;
+}
+
+h1 {
+  margin-top: 40px;
+  font-weight: 400;
+  font-style: bold;
+}
+
+h2 {
+  margin-top: 40px;
+  font-weight: 400;
+  color: #75592F;
+}
+
+table, th, td {
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 4px;
+  width: 33%;
+}
+
+button {
+  background: #207868;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 400;
+  margin: 4px 2px;
+  cursor:pointer;
+}
+
+.btn {
+  border-radius: 4px;
+}
