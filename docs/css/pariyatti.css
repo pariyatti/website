@@ -16,8 +16,8 @@
 }
 
 .store-buttons img {
-  width: 136px;
-  height: 40px;  
+  width: 200px;
+  height: auto;  
   margin-left: 11px;
   margin-right: 11px;
 }
